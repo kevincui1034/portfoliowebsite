@@ -1,4 +1,4 @@
-### Person Portfolio Website
+# Person Portfolio Website
 
 This will be where I put all my projects I've worked.
 
